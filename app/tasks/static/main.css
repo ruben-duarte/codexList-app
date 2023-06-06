@@ -1,0 +1,26 @@
+body {
+    background-color: #274156;
+    color: #f4f1bb;
+}
+
+.btn-home a {
+    font-size: 40px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.btn-home a:hover{
+    color: #f3ed7d;
+}
+
+.btn-home {
+    padding: 26px;
+    border-radius: 8px;
+    background: linear-gradient(#7b7f94, #36EEE0);
+    border: 2px solid #428fce;
+}
+
+.home {
+    margin-top: 30px;
+    margin-left: 40px;
+}
