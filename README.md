@@ -11,3 +11,6 @@ about:
 * AWS EC2
 * How to write small scripts and using enviroment variables
 
+# Watch how it looks!
+[readme-image00](https://github.com/ruben-duarte/codexList-app/assets/107430911/ff924d0a-7bf9-4cc5-aa3e-adab102ff8d2)
+
