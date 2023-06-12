@@ -20,7 +20,7 @@ give a click and then appears :
 
 You can write the number of tasks you want and click save.
 
-
+![readme-image03](https://github.com/ruben-duarte/codexList-app/assets/107430911/87d9adda-248b-4543-8426-71d5ce75d8e1)
 
 you can delete the task when its done.
 
