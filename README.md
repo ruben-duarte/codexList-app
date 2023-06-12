@@ -13,8 +13,17 @@ about:
 
 # Watch how it looks!
 ![readme-image01](https://github.com/ruben-duarte/codexList-app/assets/107430911/181ac0a1-25b2-41eb-9acb-00f4219c2139) 
-* give a click and then appears :
+
+give a click and then appears :
+
 ![readme-image00](https://github.com/ruben-duarte/codexList-app/assets/107430911/ff924d0a-7bf9-4cc5-aa3e-adab102ff8d2)
 
-You can write the number of tasks you want and click submit.
+You can write the number of tasks you want and click save.
+
+![readme-image03](https://github.com/ruben-duarte/codexList-app/assets/107430911/1c07987e-fec7-42cd-93aa-35bb4aefb53a)
+
+you can delete the task when its done.
+
+## Check this link to give a try online:
+ec2-54-191-209-5.us-west-2.compute.amazonaws.com
 
