@@ -16,14 +16,14 @@ about:
 
 give a click and then appears :
 
-![readme-image00](https://github.com/ruben-duarte/codexList-app/assets/107430911/ff924d0a-7bf9-4cc5-aa3e-adab102ff8d2)
+
 
 You can write the number of tasks you want and click save.
 
-![readme-image03](https://github.com/ruben-duarte/codexList-app/assets/107430911/1c07987e-fec7-42cd-93aa-35bb4aefb53a)
+
 
 you can delete the task when its done.
 
 ## Check this link to give a try online:
-ec2-54-191-209-5.us-west-2.compute.amazonaws.com
+http://ec2-54-191-209-5.us-west-2.compute.amazonaws.com
 
