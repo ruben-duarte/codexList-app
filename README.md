@@ -16,7 +16,7 @@ about:
 
 give a click and then appears :
 
-
+![readme-image02](https://github.com/ruben-duarte/codexList-app/assets/107430911/f991eeaf-9cdc-45cd-a36d-6b3d319e4d7f)
 
 You can write the number of tasks you want and click save.
 
